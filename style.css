@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5dc; 
+  color: #333; 
+}
+
+main {
+  flex: 1; 
+}
+
+
+/* Header */
+header {
+  background-color: #a6d5d8; 
+  color: #150444;
+  text-decoration: solid;
+}
+
+
+
+.card {
+  border: 1px solid #141414; 
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: var(--bege); 
+}
+
+.card-img-top {
+  border-bottom: 1px solid #000000; 
+  border-radius: 5px 5px 0 0; 
+}
+
+
+footer {
+  background-color: #b0e7b0; 
+  color: #fff; 
+  padding: 4rem;
+  position: relative;
+}
+
